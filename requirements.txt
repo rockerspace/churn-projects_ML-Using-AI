@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+joblib
+fastapi
+uvicorn
+pytest
+pytest-cov
+black
+flake8
+
