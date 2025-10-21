@@ -1,0 +1,15 @@
+cat > .gitignore <<'GITIGNORE'
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.DS_Store
+.env
+.vscode/
+.ipynb_checkpoints/
+data/raw/
+data/processed/
+models/
+*.log
+GITIGNORE
